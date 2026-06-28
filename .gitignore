@@ -1,0 +1,19 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+
+# Obsidian 本地临时状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# 敏感配置
+.env
+.env.*
+!.env.example
+
+# 日志和临时文件
+*.log
+*.tmp
+*.bak
