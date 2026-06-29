@@ -9,7 +9,7 @@
 - Obsidian 官方帮助：内部链接、标签、属性、图谱视图。
 - Anthropic `skill-creator`：Skill 应该沉淀明确流程、触发条件和输出规范。
 - Obsidian Git：本地知识库可通过 Git 同步到远端仓库。
-- 本公司知识库路径：`C:\Users\HTX-GaoJie\Documents\Obsidian\-O`
+- 本公司知识库路径：`C:\Users\HTX-GaoJie\Documents\obsidian 2`
 
 ## 触发场景
 

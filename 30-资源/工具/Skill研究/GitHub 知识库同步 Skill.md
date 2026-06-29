@@ -8,7 +8,7 @@
 
 - GitHub 官方文档：分支用于隔离工作，Pull Request / merge 用于把分支变更合并回主线。
 - GitHub 官方文档：提交信息应说明变更内容。
-- 本地仓库：`C:\Users\HTX-GaoJie\Documents\Obsidian\-O`
+- 本地仓库：`C:\Users\HTX-GaoJie\Documents\obsidian 2`
 - 远端仓库：`https://github.com/1021691705-rgb/-O`
 - 本机 GitHub 访问需要走本地 Clash 代理：`http://127.0.0.1:7890`
 
