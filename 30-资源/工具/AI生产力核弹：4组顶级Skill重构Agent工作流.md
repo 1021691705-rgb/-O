@@ -218,16 +218,16 @@ D:\ObsidianVault
 
 ## 适合沉淀的公司级 Skill 清单
 
-- [[知识入库 Skill]]
-- [[Obsidian 笔记整理 Skill]]
-- [[GitHub 知识库同步 Skill]]
-- [[设计项目开项 Skill]]
-- [[岗位任务分配 Skill]]
-- [[电商详情页方案 Skill]]
-- [[AI生图 Prompt Skill]]
-- [[图片质检 Skill]]
-- [[项目复盘 Skill]]
-- [[小红书图文生产 Skill]]
+- [[30-资源/工具/Skill研究/知识入库 Skill]]
+- [[30-资源/工具/Skill研究/Obsidian 笔记整理 Skill]]
+- [[30-资源/工具/Skill研究/GitHub 知识库同步 Skill]]
+- [[30-资源/工具/Skill研究/设计项目开项 Skill]]
+- [[30-资源/工具/Skill研究/岗位任务分配 Skill]]
+- [[30-资源/工具/Skill研究/电商详情页方案 Skill]]
+- [[30-资源/工具/Skill研究/AI生图 Prompt Skill]]
+- [[30-资源/工具/Skill研究/图片质检 Skill]]
+- [[30-资源/工具/Skill研究/项目复盘 Skill]]
+- [[30-资源/工具/Skill研究/小红书图文生产 Skill]]
 
 ## 公开 Skill 资源清单
 
