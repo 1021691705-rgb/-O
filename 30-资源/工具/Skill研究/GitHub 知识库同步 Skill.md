@@ -8,7 +8,7 @@
 
 - GitHub 官方文档：分支用于隔离工作，Pull Request / merge 用于把分支变更合并回主线。
 - GitHub 官方文档：提交信息应说明变更内容。
-- 本地仓库：`D:\ObsidianVault`
+- 本地仓库：`C:\Users\HTX-GaoJie\Documents\Obsidian\-O`
 - 远端仓库：`https://github.com/1021691705-rgb/-O`
 - 本机 GitHub 访问需要走本地 Clash 代理：`http://127.0.0.1:7890`
 
@@ -35,7 +35,8 @@
 
 ```text
 检查 git status
--> 只挑本次相关文件
+-> 区分知识内容、Obsidian 本地状态和草稿文件
+-> 只挑本次相关内容文件
 -> 新建 knowledge/YYYY-MM-DD-topic 分支
 -> git add 指定文件
 -> git commit 写清新增知识
@@ -51,10 +52,33 @@
 不要提交：
 
 - `.obsidian/graph.json`
-- 未命名 canvas
+- `.obsidian/workspace.json`
+- `.obsidian/workspace-mobile.json`
+- `*.canvas`
 - 附件草稿
 - 其他未确认笔记
 - 密钥、token、cookie
+
+优先提交：
+
+- 新增或修改的 `.md` 笔记。
+- `.gitignore`、模板或总览页这类知识库规则文件。
+- 必须共享的 Obsidian 配置，例如模板目录、每日笔记目录。
+
+提交前检查：
+
+```bash
+git status --short --untracked-files=all
+git diff --name-status
+```
+
+如果看到 `.obsidian/graph.json`、canvas 草稿或无关 Obsidian 状态文件，先不要加入提交。
+
+如果 `.obsidian/graph.json` 已经被 Git 跟踪，先只从索引移除，保留本地文件：
+
+```bash
+git rm --cached -- .obsidian/graph.json
+```
 
 ## 分支命名
 
@@ -73,4 +97,6 @@ knowledge/YYYY-MM-DD-topic
 
 - [[30-资源/工具/Skill研究/知识入库 Skill]]
 - [[30-资源/工具/Skill研究/Obsidian 笔记整理 Skill]]
-- [[AI生产力核弹：4组顶级Skill重构Agent工作流]]
+- [[30-资源/工具/Skill研究/知识库健康检查清单]]
+- [[30-资源/工具/Skill研究/AI设计公司工作流地图]]
+- [[30-资源/工具/AI生产力核弹：4组顶级Skill重构Agent工作流]]

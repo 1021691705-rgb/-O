@@ -178,7 +178,7 @@ AI设计公司可以照这个思路设计岗位链路：
 适用目录：
 
 ```text
-D:\ObsidianVault
+C:\Users\HTX-GaoJie\Documents\Obsidian\-O
 ```
 
 建议命令：
