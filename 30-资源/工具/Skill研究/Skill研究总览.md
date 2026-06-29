@@ -18,7 +18,7 @@
 | [[30-资源/工具/Skill研究/岗位任务分配 Skill]] | 明确岗位、输入、输出、交接和验收 |
 | [[30-资源/工具/Skill研究/电商详情页方案 Skill]] | 输出详情页逐屏结构和画面 brief |
 | [[30-资源/工具/Skill研究/AI生图 Prompt Skill]] | 把方案转成稳定可控的生图 prompt |
-| [[30-资源/工具/Skill研究/Photoshop 裁切导出 Skill]] | 用 Photoshop 裁切产品图、导出 JPG，必要时补背景 |
+| [[30-资源/工具/Photoshop 裁切导出 Skill]] | 用 Photoshop 裁切产品图、导出 JPG，必要时补背景 |
 | [[30-资源/工具/Skill研究/图片质检 Skill]] | 检查产品真实性、风格、平台适配和转化逻辑 |
 | [[30-资源/工具/Skill研究/项目复盘 Skill]] | 把交付结果、返工原因和经验沉淀成 SOP |
 
