@@ -247,6 +247,7 @@ D:\ObsidianVault
 
 ## 相关链接
 
+- [[Agent Skill 资源索引]]
 - [[资源总览]]
 - [[OpenClaw 企业微信多 Agent 教程分析]]
 - [[飞书链接 Codex 成功经验]]
