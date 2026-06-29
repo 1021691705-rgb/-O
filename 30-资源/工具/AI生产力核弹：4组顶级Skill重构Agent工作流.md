@@ -229,6 +229,74 @@ D:\ObsidianVault
 - [[项目复盘 Skill]]
 - [[小红书图文生产 Skill]]
 
+## 公开 Skill 资源清单
+
+### 分类说明
+
+这些资源不全是同一种“Skill”：
+
+- 官方 Skill：由 Anthropic 等官方仓库维护，可直接作为 Skill 参考。
+- 社区 Skill：个人或社区维护，需要先审查内容再使用。
+- MCP / 插件：不是 Skill 本体，但能给 Agent 增加外部工具或上下文能力。
+- 工作流框架：更像一套 Agent 使用规范、命令体系或虚拟团队流程。
+
+### 资源索引
+
+| 名称 | 类型 | 主要用途 | 来源 |
+|---|---|---|---|
+| Skill Creator | 官方 Skill | 创建和改进 Skill | https://github.com/anthropics/skills |
+| Agent Skill Creator | 社区 Skill | 把工作流生成可复用 Skill | https://github.com/FrancyJGLisboa/agent-skill-creator |
+| Skill Manager | 社区工具 | 管理、安装、组织 Skill | https://github.com/ashimoon/claude-skill-manager |
+| Find Skills | 社区 / Vercel Skill | 搜索和发现可用 Skill | https://github.com/vercel-labs/skills |
+| Superpowers | 工作流框架 | 给 Claude Code、Codex 等增加工程工作流 | https://github.com/obra/superpowers |
+| gstack | 工作流框架 | Garry Tan 的 Claude Code 虚拟工程团队 / 工作流 | https://github.com/garrytan/gstack |
+| Context7 | MCP / Skill 生态 | 给 Agent 提供最新文档上下文 | https://github.com/upstash/context7 |
+| GitMCP | MCP | 让 Agent 读取 GitHub 仓库上下文 | https://github.com/idosal/git-mcp |
+| Matt's Skills | 社区 Skill 集合 | 工程、前端、代码工作流 Skill | https://github.com/mattpocock/skills |
+| Frontend Design | 官方 Skill | 前端视觉设计和 UI 质量提升 | https://github.com/anthropics/skills/tree/main/skills/frontend-design |
+| UI/UX Pro Max | 社区 Skill | 专业 UI/UX 设计知识库 | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
+| Xiaohongshu Image Skill | 社区内容 Skill | 生成小红书图文卡片 | https://github.com/JimLiu/baoyu-skills |
+| Infographic Skill | 社区内容 Skill | 生成信息图 | https://github.com/JimLiu/baoyu-skills |
+| Cover Image Skill | 社区内容 Skill | 生成文章封面 | https://github.com/JimLiu/baoyu-skills |
+| Markdown to HTML Skill | 社区内容 Skill | Markdown 转公众号友好 HTML | https://github.com/JimLiu/baoyu-skills |
+| Translation Skill | 社区内容 Skill | 翻译内容 | https://github.com/JimLiu/baoyu-skills |
+| Publish WeChat Skill | 社区发布 Skill | 发布微信公众号 | https://github.com/JimLiu/baoyu-skills |
+| Publish Weibo Skill | 社区发布 Skill | 发布微博 | https://github.com/JimLiu/baoyu-skills |
+
+### 建议采用顺序
+
+第一批先做知识库和 Skill 生产：
+
+- Skill Creator
+- Find Skills
+- Agent Skill Creator
+- Obsidian 入库相关自建 Skill
+
+第二批再做岗位协同：
+
+- Superpowers
+- gstack
+- Matt's Skills
+- 自建项目经理 Skill
+- 自建质检总监 Skill
+
+第三批做内容分发：
+
+- Xiaohongshu Image Skill
+- Infographic Skill
+- Cover Image Skill
+- Markdown to HTML Skill
+- Publish WeChat Skill
+- Publish Weibo Skill
+
+### 使用风险
+
+- 社区 Skill 使用前必须看源码和 `SKILL.md`，不能直接信任。
+- 发布类 Skill 可能需要账号权限或 token，不能把密钥写进知识库。
+- MCP 工具会扩大 Agent 可访问范围，要明确权限边界。
+- 内容生成类 Skill 必须符合品牌风格和平台规则。
+- 外部 Skill 只能做参考，最终要沉淀成适合本公司岗位流程的内部 Skill。
+
 ## 风险提醒
 
 - 不要把 Skill 变成一堆泛泛提示词，必须有输入、输出和验收标准。
@@ -247,7 +315,6 @@ D:\ObsidianVault
 
 ## 相关链接
 
-- [[Agent Skill 资源索引]]
 - [[资源总览]]
 - [[OpenClaw 企业微信多 Agent 教程分析]]
 - [[飞书链接 Codex 成功经验]]
