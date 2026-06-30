@@ -5,8 +5,10 @@ Desktop.ini
 # Obsidian 本地临时状态
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 .obsidian/cache/
 .trash/
+*.canvas
 
 # 敏感配置
 .env

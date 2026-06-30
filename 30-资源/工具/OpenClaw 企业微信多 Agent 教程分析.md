@@ -366,11 +366,11 @@ openclaw config set --json bindings '[
 
 ## 适合沉淀成哪些后续笔记
 
-- [[OpenClaw 企业微信多 Agent 复刻手册]]
-- [[OpenClaw bindings 配置经验]]
-- [[企业微信智能机器人 API 模式]]
-- [[OpenClaw 多 Agent 隔离验证方法]]
-- [[IM 机器人长连接与 Webhook 对比]]
+- OpenClaw 企业微信多 Agent 复刻手册
+- OpenClaw bindings 配置经验
+- [[30-资源/概念/企业微信智能机器人 API 模式]]
+- OpenClaw 多 Agent 隔离验证方法
+- IM 机器人长连接与 Webhook 对比
 
 ## 后续补充清单
 
