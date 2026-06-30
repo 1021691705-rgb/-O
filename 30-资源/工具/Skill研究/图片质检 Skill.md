@@ -47,5 +47,6 @@
 ## 相关链接
 
 - [[30-资源/工具/Skill研究/AI生图 Prompt Skill]]
+- [[30-资源/工具/Skill研究/图片裁切 Skill]]
 - [[30-资源/工具/Skill研究/电商详情页方案 Skill]]
 - [[30-资源/工具/Skill研究/项目复盘 Skill]]
