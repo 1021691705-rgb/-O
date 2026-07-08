@@ -316,7 +316,7 @@ C:\Users\HTX-GaoJie\Documents\obsidian 2
 
 ## 相关链接
 
-- [[资源总览]]
-- [[OpenClaw 企业微信多 Agent 教程分析]]
-- [[飞书链接 Codex 成功经验]]
-- [[飞书 Codex 项目复刻手册]]
+- [[30-资源/资源总览]]
+- [[30-资源/工具/OpenClaw 企业微信多 Agent 教程分析]]
+- [[30-资源/工具/飞书链接 Codex 成功经验]]
+- [[30-资源/工具/飞书 Codex 项目复刻手册]]

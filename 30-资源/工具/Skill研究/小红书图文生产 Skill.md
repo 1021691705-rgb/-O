@@ -62,4 +62,4 @@
 
 - [[30-资源/工具/Skill研究/知识入库 Skill]]
 - [[30-资源/工具/Skill研究/Obsidian 笔记整理 Skill]]
-- [[AI生产力核弹：4组顶级Skill重构Agent工作流]]
+- [[30-资源/工具/AI生产力核弹：4组顶级Skill重构Agent工作流]]
