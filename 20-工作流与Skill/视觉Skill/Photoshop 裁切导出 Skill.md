@@ -93,4 +93,4 @@
 
 - 图片质检 Skill（待恢复）
 - AI生图 Prompt Skill（待恢复）
-- [[30-视觉与内容生产/电商详情页方案 Skill]]
+- [[20-工作流与Skill/视觉Skill/电商详情页方案 Skill]]

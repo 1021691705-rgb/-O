@@ -16,7 +16,7 @@
 - 让 Codex 通过 MCP 获取 Photoshop 当前文档、图层、选择区和预览状态。
 - 让 AI 助手执行 Photoshop 自动化操作，例如裁切、导出、抠图、蒙版、调整图层或批处理。
 - 将原本依赖人工点击 Photoshop UI 的步骤，沉淀为更稳定的工具调用流程。
-- 为 [[30-视觉与内容生产/Photoshop 裁切导出 Skill]] 这类 Photoshop 工作流提供更直接的自动化底层能力。
+- 为 [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]] 这类 Photoshop 工作流提供更直接的自动化底层能力。
 
 ## 为什么值得关注
 
@@ -44,13 +44,13 @@
 - [ ] 阅读并复核仓库 README 的安装步骤。
 - [ ] 在本机测试 MCP 是否能连接 Photoshop。
 - [ ] 记录可用工具清单：状态读取、预览、图层、选择区、裁切、导出、批处理。
-- [ ] 如果稳定可用，升级 [[30-视觉与内容生产/Photoshop 裁切导出 Skill]] 的底层执行方式。
+- [ ] 如果稳定可用，升级 [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]] 的底层执行方式。
 - [ ] 补一篇“Codex 连接 Photoshop MCP 操作手册”。
 
 ## 相关链接
 
-- [[30-视觉与内容生产/Photoshop 裁切导出 Skill]]
-- [[30-视觉与内容生产/图片裁切 Skill]]
+- [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]]
+- [[20-工作流与Skill/视觉Skill/图片裁切 Skill]]
 - 图片质检 Skill（待恢复）
 - [[20-工作流与Skill/AI设计公司工作流地图]]
 - [[40-工具与系统/资源总览]]

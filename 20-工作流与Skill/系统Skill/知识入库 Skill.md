@@ -71,5 +71,5 @@
 
 - AI生产力核弹：4组顶级Skill重构Agent工作流（待恢复）
 - [[20-工作流与Skill/AI设计公司工作流地图]]
-- [[20-工作流与Skill/Obsidian 笔记整理 Skill]]
-- [[20-工作流与Skill/GitHub 知识库同步 Skill]]
+- [[20-工作流与Skill/系统Skill/Obsidian 笔记整理 Skill]]
+- [[20-工作流与Skill/系统Skill/GitHub 知识库同步 Skill]]
