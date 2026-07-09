@@ -51,7 +51,7 @@ C:\Users\HTX-GaoJie\Documents\obsidian 2
 
 优先读取：
 
-- [[30-视觉与内容生产/Photoshop 裁切导出 Skill]]
+- [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]]
 
 如果点名的 Skill 和任务明显不匹配，先问用户确认。
 
@@ -68,15 +68,15 @@ C:\Users\HTX-GaoJie\Documents\obsidian 2
 
 | 当前任务 | 优先读取 |
 |---|---|
-| 放进知识库 | [[20-工作流与Skill/知识入库 Skill]] |
-| 整理知识库 | [[20-工作流与Skill/Obsidian 笔记整理 Skill]] |
-| 同步 GitHub | [[20-工作流与Skill/GitHub 知识库同步 Skill]] |
+| 放进知识库 | [[20-工作流与Skill/系统Skill/知识入库 Skill]] |
+| 整理知识库 | [[20-工作流与Skill/系统Skill/Obsidian 笔记整理 Skill]] |
+| 同步 GitHub | [[20-工作流与Skill/系统Skill/GitHub 知识库同步 Skill]] |
 | 开设计项目 | 设计项目开项 Skill（待恢复） |
 | 拆岗位任务 | 岗位任务分配 Skill（待恢复） |
-| 做详情页方案 | [[30-视觉与内容生产/电商详情页方案 Skill]] |
+| 做详情页方案 | [[20-工作流与Skill/视觉Skill/电商详情页方案 Skill]] |
 | 写生图提示词 | AI生图 Prompt Skill（待恢复）、[[30-视觉与内容生产/视觉提示词知识库总览]] |
 | 反推参考图或查视觉词块 | [[30-视觉与内容生产/视觉提示词知识库总览]] |
-| 裁图导出 | [[30-视觉与内容生产/Photoshop 裁切导出 Skill]] |
+| 裁图导出 | [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]] |
 | 图片质检 | 图片质检 Skill（待恢复） |
 | 项目复盘 | [[10-项目与复盘/项目复盘 Skill]] |
 | 小红书内容 | 小红书图文生产 Skill（待恢复） |
@@ -178,7 +178,7 @@ Markdown 知识库
 - Skill 笔记写清触发场景、输入、输出和相关链接。
 - 总览页保持短，只做导航。
 - 新笔记必须回答关联性问题。
-- 定期跑 [[20-工作流与Skill/知识库健康检查清单]]。
+- 定期跑 [[20-工作流与Skill/系统Skill/知识库健康检查清单]]。
 
 ## 相关链接
 
@@ -186,5 +186,5 @@ Markdown 知识库
 - [[00-入口与收集/知识库使用说明书]]
 - [[20-工作流与Skill/AI设计公司工作流地图]]
 - [[20-工作流与Skill/Skill研究总览]]
-- [[20-工作流与Skill/知识库健康检查清单]]
-- [[20-工作流与Skill/知识入库 Skill]]
+- [[20-工作流与Skill/系统Skill/知识库健康检查清单]]
+- [[20-工作流与Skill/系统Skill/知识入库 Skill]]

@@ -55,8 +55,8 @@
 
 ## 相关链接
 
-- [[20-工作流与Skill/知识库健康检查清单]]
-- [[20-工作流与Skill/知识入库 Skill]]
-- [[20-工作流与Skill/GitHub 知识库同步 Skill]]
+- [[20-工作流与Skill/系统Skill/知识库健康检查清单]]
+- [[20-工作流与Skill/系统Skill/知识入库 Skill]]
+- [[20-工作流与Skill/系统Skill/GitHub 知识库同步 Skill]]
 - [[20-工作流与Skill/AI设计公司工作流地图]]
 - AI生产力核弹：4组顶级Skill重构Agent工作流（待恢复）

@@ -39,5 +39,5 @@
 
 - [[40-工具与系统/资源总览]]
 - [[20-工作流与Skill/AI设计公司工作流地图]]
-- [[20-工作流与Skill/GitHub 知识库同步 Skill]]
-- [[30-视觉与内容生产/Photoshop 裁切导出 Skill]]
+- [[20-工作流与Skill/系统Skill/GitHub 知识库同步 Skill]]
+- [[20-工作流与Skill/视觉Skill/Photoshop 裁切导出 Skill]]
