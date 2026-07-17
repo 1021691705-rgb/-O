@@ -8,7 +8,8 @@
 
 - 来源文件：`C:\Users\HTX-GaoJie\Desktop\AI使用网站.txt`
 - 入库日期：2026-06-29
-- 状态：仅记录入口，网站可用性和价格未逐项验证。
+- 最近更新：2026-07-17
+- 状态：仅记录入口，网站可用性、价格和付款安全未逐项验证。
 
 ## 网站清单
 
@@ -19,6 +20,10 @@
 | 接码 | https://5sim.net/zh | 手机验证码接收服务 | 注意平台规则、账号安全和合规风险 |
 | API 购买 | https://shop.apihost.cn/products | API 产品购买入口 | 购买前确认价格、稳定性、退款规则和密钥安全 |
 | 裁图 | https://lsjysheji.netlify.app/ | 图片裁切工具 | 上传图片前确认是否包含客户隐私或未公开素材 |
+| 链接提取重置 | https://pay.ldxp.cn/shop/WPXSCE1B | 提取链接重置入口 | 涉及付款，使用前确认服务方、价格和订单记录 |
+| 链接提取 | https://pay.ldxp.cn/item/nwfofb | 提取链接入口 | 涉及付款，使用前确认用途、价格和有效期 |
+| 谷歌邮箱注册 | https://gmail.31tu.com/ | Gmail 注册辅助入口 | 注意账号安全、服务合规性和绑定资料归属 |
+| 微软邮箱注册 | https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fmail%2F&sdf=0&sessionId=0cf76086-acd5-4fa6-b06e-75fd066ba429 | Outlook / Microsoft 邮箱注册入口 | 优先使用微软官方入口，账号信息不要写入知识库 |
 
 ## 使用规则
 
@@ -27,6 +32,7 @@
 - 涉及客户素材、品牌素材和未公开图片时，优先使用本地工具。
 - 第三方插件接入 Codex 前，先确认它会读取、同步、上传哪些数据。
 - 购买 API 前，先小额测试稳定性和延迟，不直接用于正式生产链路。
+- 涉及付款、接码和邮箱注册的服务，使用前先确认合规性、账号归属和恢复方式。
 
 ## 后续行动
 
@@ -34,6 +40,7 @@
 - [ ] 给每个 API 入口补充模型、价格、稳定性和使用场景。
 - [ ] 评估 `codex-history-sync-tool` 是否适合沉淀到 Codex 工作流。
 - [ ] 如裁图工具稳定可用，补充到图片处理相关流程。
+- [ ] 核实链接提取类服务的价格、有效期和退款规则。
 
 ## 相关链接
 
