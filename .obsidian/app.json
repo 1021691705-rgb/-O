@@ -3,5 +3,6 @@
   "livePreview": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "00-收集箱",
-  "attachmentFolderPath": "30-资源/附件"
+  "attachmentFolderPath": "30-资源/附件",
+  "promptDelete": false
 }
