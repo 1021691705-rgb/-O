@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "id": "f3e7076f-ca42-43a1-a83e-be355811ca33",
+      "title": "你是谁",
+      "sessionId": "da34589d-4a1f-418f-ac50-57d543d7eef6",
+      "messages": [
+        {
+          "id": "37d2078b-4032-485b-9866-94b68b0e3824",
+          "role": "user",
+          "content": "你是谁",
+          "timestamp": 1783999681043
+        },
+        {
+          "id": "ae531ede-8a8b-4d33-b5df-7a2d46550664",
+          "role": "assistant",
+          "content": "错误: 找不到 codebuddy CLI。请确认已安装 WorkBuddy 桌面版，或在插件设置中指定 codebuddy 路径。",
+          "timestamp": 1783999681044
+        }
+      ],
+      "createdAt": 1783999670740,
+      "updatedAt": 1783999681050
+    }
+  ],
+  "settings": {
+    "codebuddyPath": "D:\\软件\\WB\\WorkBuddy\\resources\\app.asar.unpacked\\cli\\bin\\codebuddy.exe",
+    "maxConversations": 20,
+    "version": 3
+  }
+}
